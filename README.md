@@ -22,7 +22,7 @@ This program allows the user to quickly calculate the distance between two point
 - Non Symbols
 
 ## Sample Output
-
+```
 Enter your x1:6
 
 Enter your x2:7
@@ -30,6 +30,7 @@ Enter your x2:7
 Enter your y1:6
 
 Enter your y2:9
+```
 
 The distance between the two points inputted is 3.1622776601683795 kilometers.
 
