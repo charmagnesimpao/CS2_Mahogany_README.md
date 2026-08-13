@@ -22,6 +22,7 @@ This program allows the user to quickly calculate the distance between two point
 - Non Symbols
 
 ## Sample Output
+
 Enter your x1:6
 
 Enter your x2:7
